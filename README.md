@@ -8,7 +8,6 @@
 <a href="https://t.me/Stredox02">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-</br>
 <a href="https://discordapp.com/users/794488979244187649/">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
